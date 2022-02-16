@@ -58,8 +58,8 @@ pans.*
 10. After 18 minutes of baking, you can take out the muffin pans out of
     the oven.
 
-CAUTION: The muffin pans will be hot, so take them out carefully with
-baking mitts.
+**CAUTION: The muffin pans will be hot, so take them out carefully with
+baking mitts.**
 
 11. Take the muffins out of their pans with a fork and enjoy! The
     muffins should be crisp on the outside, and soft on the inside.
